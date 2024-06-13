@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saravanan</h1>
-<h3 align="center">A passionate developer in Android development and java backend development hailing form India.</h3>
+<h3 align="center">A passionate Android and java backend developer hailing form India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saravanan2047&label=Profile%20views&color=0e75b6&style=flat" alt="saravanan2047" /> </p>
 
